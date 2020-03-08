@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Coveriance_Contrvariance\Example1.cs" />
+    <Compile Include="Linq\Lambda_Expression.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Relations\Aggregation1.cs" />
