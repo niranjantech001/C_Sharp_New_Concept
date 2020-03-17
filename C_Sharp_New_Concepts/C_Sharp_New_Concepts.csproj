@@ -44,6 +44,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Coveriance_Contrvariance\Example1.cs" />
+    <Compile Include="C_Sharp_Keywords\in_Keyword_Example.cs" />
+    <Compile Include="C_Sharp_Keywords\New_Keyword.cs" />
+    <Compile Include="C_Sharp_Keywords\New_KeyWord_Class.cs" />
+    <Compile Include="C_Sharp_Keywords\OutKeyword.cs" />
+    <Compile Include="C_Sharp_Keywords\Ref_Out_Keywords.cs" />
+    <Compile Include="C_Sharp_Keywords\Var_KeyWord.cs" />
+    <Compile Include="C_Sharp_Keywords\YieldExample.cs" />
+    <Compile Include="C_Sharp_Keywords\YieldForInfiteLoop.cs" />
     <Compile Include="Linq\Lambda_Expression.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -55,6 +63,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Generics\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="C_Sharp_Keywords\Patient_Script.sql" />
+    <Content Include="C_Sharp_Keywords\P_table.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
